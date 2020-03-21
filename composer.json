@@ -2,5 +2,8 @@
     "name": "jaam/acf-formidable-select",
     "description": "Formidable Forms ACF integration.",
     "type": "wordpress-plugin",
-    "license": "GPL-3.0-or-later"
+    "license": "GPL-3.0-or-later",
+    "require": {
+        "composer/installers": "^1.8"
+    }
 }
