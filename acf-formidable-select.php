@@ -34,6 +34,8 @@ if( !class_exists('acf_plugin_formidable_select') ) :
 
 class acf_plugin_formidable_select {
 
+	private $settings;
+
 	/*
 	*  __construct
 	*
